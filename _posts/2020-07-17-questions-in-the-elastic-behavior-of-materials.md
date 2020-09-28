@@ -1,5 +1,5 @@
 ---
-title: Questions on Elastic Behavior of Materials
+title: Questions in the Elastic Behavior of Materials
 published: false
 ---
 
