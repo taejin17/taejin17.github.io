@@ -1,6 +1,6 @@
 ---
 title: "Questions in Crystallography"
-published: true
+published: false
 ---
 
 Hello world, I've recently been studying crystallography. The topics I've been specifically focusing on are crystalline solid structures, alongside learning all of the notation for defining crystal planes and directions. Here are some resulting questions with analysis:
