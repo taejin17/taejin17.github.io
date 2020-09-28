@@ -28,10 +28,10 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: colin.kang.965
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -49,4 +49,4 @@ projects:
 topics:
   - name: python
     web_url: https://github.com/topics/python
-    image_url: https://en.wikiversity.org/wiki/Python#/media/File:Python.svg
+    image_url: https://lh3.googleusercontent.com/proxy/GznVQNeg7ASV4RT-SbSeCU5MxWugmGuUlfilqDp1VsFVbdtZ_zpqPcbeHHBw8j0mIoeNNCiSNgmQnsn88asgy6Z1WGnEeJrq0lbuoMo
