@@ -7,6 +7,8 @@ Hello world, I've recently been studying how elastic behavior arises in material
 
 **1. Why can we treat a material as linear elastic at low displacements?**
 
+
+
 **2. Why would we use stress and strain rather than load and displacement?**
 
 **3. Where would true stress be more useful than engineering stress?**
