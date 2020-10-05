@@ -1,6 +1,5 @@
 ---
 title: On Materials, Microstructures, and Mechanics
-published: true
 ---
 
 **Hello World**
