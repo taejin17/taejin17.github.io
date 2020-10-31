@@ -16,18 +16,6 @@ defaults:
     values:
       layout: "post"
 
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
-
 social_media:
   # behance: your_username
   # dribbble: your_username
@@ -46,12 +34,3 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
-topics:
-  - name: python
-    web_url: https://github.com/topics/python
-    image_url: https://lh3.googleusercontent.com/proxy/GznVQNeg7ASV4RT-SbSeCU5MxWugmGuUlfilqDp1VsFVbdtZ_zpqPcbeHHBw8j0mIoeNNCiSNgmQnsn88asgy6Z1WGnEeJrq0lbuoMo
-    
-  - name: Java
-    web_url: https://github.com/topics/java
-    image_url: https://codehustler.org/wp-content/uploads/2012/12/java_logo.png
