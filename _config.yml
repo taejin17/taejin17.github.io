@@ -15,6 +15,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+projects:
+  sort_by: pushed
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
 
 social_media:
   # behance: your_username
@@ -34,3 +42,5 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
+ 
+topics:
