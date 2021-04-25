@@ -48,10 +48,10 @@ social_media:
   # youtube: your_username
  
 topics:
-  - name: nanomaterials
-    web_url: https://www.niehs.nih.gov/health/topics/agents/sya-nano/index.cfm
-    image_url: https://analyticalscience.wiley.com/do/10.1002/micro.1772/full/i96a6dbc131a1c413694be8d114f024ac.jpg
+ # - name: nanomaterials
+ #   web_url: https://www.niehs.nih.gov/health/topics/agents/sya-nano/index.cfm
+ #   image_url: https://analyticalscience.wiley.com/do/10.1002/micro.1772/full/i96a6dbc131a1c413694be8d114f024ac.jpg
     
-  - name: python
-    web_url: https://github.com/topics/python
-    image_url:
+ # - name: python
+ #   web_url: https://github.com/topics/python
+ #   image_url:
