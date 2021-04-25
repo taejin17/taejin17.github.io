@@ -29,12 +29,6 @@
             {{ content }}
           </div>
         {% endunless %}
-        
-        {% include projects.html %}
-
-        {% if site.topics %}
-          {% include interests.html %}
-        {% endif %}
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
